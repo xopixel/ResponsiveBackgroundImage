@@ -1,0 +1,21 @@
+html {
+    background: url(../images/Death_to_stock_communicate_hands_2.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.xop-container {
+    max-width: 960px;
+    margin: 0 3rem;
+    
+}
+
+.xop-heading {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 142px;
+    text-shadow: 10px 10px 4px rgba(0,0,0,0.1);
+    text-transform: uppercase;
+}
