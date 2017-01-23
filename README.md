@@ -4,7 +4,7 @@ Responsive Background Image Tutorial
 & [View the demo](http://xopixel.com/demo/Responsive%20Background%20Image/)
 
 ## License
-Read the License & Terms of Use [here]()
+Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
 
 ## Credits
 - [Font Awesome](fontawesome.io)
