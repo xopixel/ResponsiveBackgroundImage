@@ -1,4 +1,4 @@
-# ResponsiveBackgroundImage
+# Responsive Background Image
 Responsive Background Image Tutorial
 [Read the article](http://xopixel.com/responsive-full-page-background-image-tutorial-css3/) on XO PIXEL
 & [View the demo](http://xopixel.com/demo/Responsive%20Background%20Image/)
